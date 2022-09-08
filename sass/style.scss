@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(233,233,233);
+    //font-family: 'Dancing Script', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper{
+    width:600px;
+    background-color: #fff;
+    box-shadow:0 0 10px #000;
+}
